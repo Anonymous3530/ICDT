@@ -1,1 +1,9 @@
-print('niggga')
+#to-whoeverniggaviewsthis just ignore it hahahaha
+print("If you love coconuts say 'i like coconuts'")
+
+user_input = input("Enter your sentence: ")
+
+if user_input == "i like coconuts":
+    print("this boy loves nuts")
+else:
+    print("this boy dont like coconuts")
