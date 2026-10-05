@@ -1,7 +1,7 @@
 #to-whoeverniggaviewsthis just ignore it hahahaha
 print("If you love coconuts say 'i like coconuts'")
 
-user_input = input("Enter your sentence: ")
+user_input = input("whats your answer nigga: ")
 
 if user_input == "i like coconuts":
     print("this boy loves nuts")
